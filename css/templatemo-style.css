@@ -102,6 +102,11 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
+/*IMG LEFT*
+.img-left {
+  display: block;
+   margin-left: 0;
+}*/
 
 button,
 input,
