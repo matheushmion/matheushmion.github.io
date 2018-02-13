@@ -103,7 +103,7 @@ img {
   -ms-interpolation-mode: bicubic;
 	
 }
-
+/*IMG LEFT*/
 img.face{
     float: left;
     border: transparent thin solid;
@@ -113,11 +113,8 @@ img.face{
 	max-height: 275px;
 }
 
-/*IMG LEFT*
-.img-left {
-  display: block;
-   margin-left: 0;
-}*/
+/*IMG LEFT*/
+
 
 button,
 input,
@@ -188,7 +185,7 @@ p {
 		text-align: justify;
 }
 a {
-  color: #f69730;
+  color: #BC6C25;
   text-decoration: none;
   -webkit-transition: all 200ms ease-in-out;
   -moz-transition: all 200ms ease-in-out;
