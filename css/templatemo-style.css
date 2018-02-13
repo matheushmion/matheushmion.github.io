@@ -101,7 +101,18 @@ sub {
 img {
   border: 0;
   -ms-interpolation-mode: bicubic;
+	
 }
+
+img.face{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 305px;
+	max-height: 275px;
+}
+
 /*IMG LEFT*
 .img-left {
   display: block;
