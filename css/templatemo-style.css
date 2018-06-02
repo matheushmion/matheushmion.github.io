@@ -109,8 +109,8 @@ img.face{
     border: transparent thin solid;
     padding: 5px;
     margin: 0px 10px 10px 0;
-    max-width: 305px;
-	max-height: 275px;
+    max-width: 255px;
+	max-height: 255px;
 }
 
 /*IMG LEFT*/
